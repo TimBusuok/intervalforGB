@@ -58,4 +58,12 @@
     
 <img width="710" alt="Снимок экрана 2023-05-28 в 23 30 54" src="https://github.com/Silva0308/summary/assets/108118608/3b79bd81-195a-4e64-a095-449b0aab7396">
 
+4. Установить и удалить deb-пакет с помощью dpkg. 
 
+Выполнение команды:
+
+    wget https://dlcdn.apache.org//directory/apacheds/dist/2.0.0.AM26/apacheds-2.0.0.AM26-amd64.deb
+   sudo dpkg -i apacheds-2.0.0.AM26-amd64.deb
+    sudo dpkg -P apacheds
+
+![пакет](5.png)
