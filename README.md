@@ -67,3 +67,7 @@
     sudo dpkg -P apacheds
 
 ![пакет](5.png)
+
+5. Выложить историю команд в терминале ubuntu
+
+![история](history.png)
